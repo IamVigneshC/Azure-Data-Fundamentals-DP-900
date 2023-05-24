@@ -42,9 +42,13 @@ Clustered indexes sort and store the data rows in the table or view based on the
 
 
 ------------------------------------------------
-
+- Treemaps are charts of colored rectangles, with size representing value. They can be hierarchical, with rectangles nested within the main rectangles
+- A key influencer chart displays the major contributors to a selected result or value
+- Scatter and Bubble charts display relationships between 2 (scatter) or 3 (bubble) quantitative measures -- whether or not, in which order, etc
 
 ------------------------------------------------
+
+A key-value store is the simplest (and often quickest) type of NoSQL database for inserting and querying data. Each data item in a key-value store has two elements, a key and a value. The key uniquely identifies the item, and the value holds the data for the item.
 
 
 
