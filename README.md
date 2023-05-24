@@ -6,9 +6,11 @@
 - Prescriptive analytics uses the data from a variety of sources — including statistics, machine learning, and data mining — to identify possible future outcomes and show the best option
 - Diagnostics analytics identifies trends or patterns in the past and then goes a step further to explain why the trends occurred the way they did
 
+------------------------------------------------
 
 - Normalization is the process of **organizing data** in a database. This includes creating tables and **establishing relationships** between those tables according to rules designed both to protect the data and to make the database more flexible by **eliminating redundancy and inconsistent dependency**.
 
+------------------------------------------------
 
 - Extratct Load Transform (ELT) requires a target data store powerful enough to transform data
 - Extratct Transform Load (ETL) requires data that is fully processed before being loaded to the target data store
