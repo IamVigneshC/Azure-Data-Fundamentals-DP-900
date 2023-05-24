@@ -14,3 +14,16 @@
 
 - Extratct Load Transform (ELT) requires a target data store powerful enough to transform data
 - Extratct Transform Load (ETL) requires data that is fully processed before being loaded to the target data store
+
+-----------------------------------------------
+Star Schema in data warehouse, in which the center of the star can have one fact table and a number of associated dimension tables. It is known as star schema as its structure resembles a star.Dimension tables describe business entities—the things you model. Entities can include products, people, places, and concepts including time itself.Fact tables store observations or events, and can be sales orders, stock balances, exchange rates, temperatures, etc. A fact table contains dimension key columns that relate to dimension tables, and numeric measure columns.
+
+https://docs.microsoft.com/en-us/power-bi/guidance/star-schema
+https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/3-data-modeling
+
+------------------------------------------------
+MPP distributes processing across compute nodes
+
+https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/massively-parallel-processing-mpp-architecture
+
+
