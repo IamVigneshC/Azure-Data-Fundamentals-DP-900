@@ -158,11 +158,30 @@ Transparent Data Encryption (TDE) encrypts SQL Server, Azure SQL Database, and A
 - MongoDB API also uses documents but is BSON format, which is a binary format and not text-based
 
 ------------------------------------------------
-
+Azure Databricks has several features, and one includes a complete ML platform where you can build, train and test models.
 
 
 ------------------------------------------------
 
+Cosmos DB Table API offers single-digit millisecond latency for reads and writes, backed with <10 ms latency for reads and writes at the 99th percentile, at any scale, anywhere in the world. It is not less expensive than table storage. They both offer an SLA, and are both programmable. 
+
+------------------------------------------------
+
+
+Primary keys provide access to all the administrative resources for the database account. Each account consists of two primary keys: a primary key and secondary key. The purpose of dual keys is to let you regenerate, or roll keys, providing continuous access to your account and data.
+
+
+------------------------------------------------
+Data movement, Data transformation, and Control are the three types of activities that Azure Data Factory supports. 
+
+------------------------------------------------
+Document data is data that is stored in a readable format, such as JSON. Using Cosmos DB Core SQL API, you can query this data. The database does not enforce a schema on the data. It scales for a global scale.
+
+------------------------------------------------
+
+Azure Databricks offers a SQL platform for analysts to run queries against data, a platform to allow data scientists and engineers to work together on tough data science problems, and a machine learning environment to build, train and test models.
+
+------------------------------------------------
 
 
 ------------------------------------------------
