@@ -142,3 +142,27 @@ SQL injection is an attack in which malicious code is inserted into strings that
 Resource tokens provide access to the application resources within a database. You can use a resource token (by creating Cosmos DB users and permissions) when you want to provide access to resources in your Cosmos DB account to a client that cannot be trusted with the primary key.
 
 ------------------------------------------------
+
+Instead of believing everything behind the corporate firewall is safe, the Zero Trust model assumes breach and verifies each request as though it originated from an uncontrolled network. Regardless of where the request originates or what resource it accesses, the Zero Trust model teaches us to "never trust, always verify.
+
+------------------------------------------------
+
+Transparent Data Encryption (TDE) encrypts SQL Server, Azure SQL Database, and Azure Synapse Analytics data files. This encryption is known as encrypting data at rest. 
+
+------------------------------------------------
+
+- Core (SQL) API stores data in JSON document format
+- Table API stores data in key/value format
+- Cassandra API stores data in column-oriented schema
+- Gremlin API allows users to make graph queries and stores data as edges and vertices
+- MongoDB API also uses documents but is BSON format, which is a binary format and not text-based
+
+------------------------------------------------
+
+
+
+------------------------------------------------
+
+
+
+------------------------------------------------
